@@ -1,6 +1,12 @@
 ### Hi there 👋
 #### I'm Zheng Jiahao, a student of xmut from Xiamen, China.
 
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小郑同学祝您今天愉快!&center=true&size=27">
+  </a>
+</h1>
+
 <div align="center">
     <img src="https://metrics.lecoq.io/ZJH-hhh?template=classic&config.timezone=Asia%2FShanghai">
 </div>
@@ -32,9 +38,3 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ZJH-hhh" />
 </div>
-
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小郑同学祝您今天愉快!&center=true&size=27">
-  </a>
-</h1>
