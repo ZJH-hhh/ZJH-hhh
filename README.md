@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/ZJH-hhh/ZJH-hhh/assets/github-contribution-grid-snake.svg" /></div>
+
 # Hi there 👋
 #### 我是小郑，目前就读于厦门理工学院数据科学与大数据技术专业，努力学习中，希望能成为一名资深程序员
 #### 计算机的世界真的很精彩，值得我们去认真探索
