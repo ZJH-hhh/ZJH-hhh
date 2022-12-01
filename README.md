@@ -1,13 +1,13 @@
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小郑同学祝您心情愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您心情愉快!&center=true&size=27">
   </a>
 </h1>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/ZJH-hhh/ZJH-hhh/assets/github-contribution-grid-snake.svg" /></div>
 
 # Hi there 👋
-#### 我是小郑，目前就读于厦门理工学院数据科学与大数据技术专业，努力学习中，希望能成为一名资深程序员
+#### 哦累哇路飞，开贼库，哦累哇纳鲁，目前就读于厦门理工学院数据科学与大数据技术专业，努力学习中，希望能成为一名资深程序员
 #### 计算机的世界真的很精彩，值得我们去认真探索
 
 <div align="center">
